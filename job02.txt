@@ -1,0 +1,18 @@
+
+V = R * I
+
+Où V est la tension, R est la résistance et I est le courant.
+
+
+V = 5 V - 2 V = 3 V
+
+Nous pouvons maintenant utiliser la loi d'Ohm pour calculer la valeur de la résistance :
+
+R = V / I = 3 V / 0,01 A = 300 ohms
+
+Nous avons donc besoin d'une résistance de 300 ohms pour limiter le courant à 10 milliampères à travers la LED.
+
+Le résultat est donc :
+
+300 ohms
+
